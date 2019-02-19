@@ -1,0 +1,2 @@
+# Flight-Price-Predictor
+Este código pretende predecir el precio de un vuelo de acuerdo con variables como fecha de vuelo, días de anticipación de compra, destino y origen, entre otras. El código se basa en la impplementación de una red neuronal artificial, la cual es entrenada mediante aprendizaje supervisado, utilizando los datos que se obtuvieron mediante web scraping desde las paginas de las distintas aerolineas.
